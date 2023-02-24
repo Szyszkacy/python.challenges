@@ -1,1 +1,1 @@
-# python.challenges from book Python Basic Book 
+# python.challenges and exercises from book Python Basic Book 
